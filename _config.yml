@@ -16,7 +16,7 @@ timezone:
 
 title: Ondřej Hrdlička  # the main title
 
-tagline: Koncertní deník nespoutaného metalisty a nadšeného pisálka. # it will display as the subtitle
+tagline: nebo koncertní deník všedního metalisty a nadšeného pisálka # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Koncertní deník nespoutaného metalisty a nadšeného pisálka.
