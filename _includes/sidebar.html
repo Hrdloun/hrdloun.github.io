@@ -25,7 +25,7 @@
           <span>{{ site.data.locales[include.lang].tabs.home | upcase }}</span>
         </a>
       </li>
-      <!-- the real tabs -->
+      <!-- the real tabs / except tags page-->
       {% for tab in site.tabs %}
         {% unless tab.url == '/tags/' %}
           <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
