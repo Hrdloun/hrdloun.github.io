@@ -113,6 +113,10 @@
   brightness(88%) contrast(91%) !important;
 }
 
+.custom-icon {
+  transition: none !important;
+}
+
 .custom-icon:hover {
   filter: brightness(0) saturate(100%)
   invert(20%) sepia(89%)
