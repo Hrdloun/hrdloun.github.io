@@ -106,7 +106,14 @@
   animation: none !important;
 }
 
-.custom-icon img:hover {
+.fas:hover  img {
+  filter: brightness(0) saturate(100%)
+  invert(20%) sepia(89%)
+  saturate(2966%) hue-rotate(341deg)
+  brightness(88%) contrast(91%) !important;
+}
+
+.custom-icon:hover  img {
   filter: brightness(0) saturate(100%)
   invert(20%) sepia(89%)
   saturate(2966%) hue-rotate(341deg)
