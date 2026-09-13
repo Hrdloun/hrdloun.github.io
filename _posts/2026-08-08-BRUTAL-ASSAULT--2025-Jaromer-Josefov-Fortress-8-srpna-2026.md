@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2026-08-05-festival.jpg
+  path: /assets/img/posts/2026-08-05-festival.webp
 title: "BRUTAL ASSAULT 2026 - 4. DEN"
 date: 2026-08-08 00-00-00 +0800
 categories: [Festivaly, Brutal Assault]

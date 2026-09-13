@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2024-10-25-concert.png
+  path: /assets/img/posts/2024-10-25-concert.webp
 title: "ARCH ENEMY, IN FLAMES, SOILWORK"
 date: 2024-10-25 00-00-00 +0800
 categories: [Koncerty, Praha / Sportovní hala Fortuna]

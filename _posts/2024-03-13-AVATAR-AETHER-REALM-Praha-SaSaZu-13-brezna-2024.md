@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2024-03-13-concert.jpg
+  path: /assets/img/posts/2024-03-13-concert.webp
 title: "AVATAR, ÆTHER REALM"
 date: 2024-03-13 00-00-00 +0800
 categories: [Koncerty, Praha / SaSaZu]

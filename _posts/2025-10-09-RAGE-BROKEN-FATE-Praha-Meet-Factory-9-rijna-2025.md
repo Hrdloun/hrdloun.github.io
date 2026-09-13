@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2025-10-09-concert.jpg
+  path: /assets/img/posts/2025-10-09-concert.webp
 title: "RAGE, BROKEN FATE"
 date: 2025-10-09 00-00-00 +0800
 categories: [Koncerty, Praha / Meet Factory]

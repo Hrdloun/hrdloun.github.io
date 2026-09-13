@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2026-04-10-concert.jpg
+  path: /assets/img/posts/2023-08-12-concert.webp
 title: "BOUCHACÍ ŠROUBY, ANACREON"
 date: 2023-08-12 00-00-00 +0800
 categories: [Koncerty, Brandýs nad Labem / Saloon]

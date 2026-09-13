@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2024-12-25-concert.jpg
+  path: /assets/img/posts/2024-12-25-concert.webp
 title: "CUTTERED FLESH, POPPY SEED GRINDER, ORIGIN OF INFINITY"
 date: 2024-12-25 00-00-00 +0800
 categories: [Koncerty, Praha / Modrá Vopice]

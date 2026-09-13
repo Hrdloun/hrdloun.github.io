@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2026-08-13-festival.png
+  path: /assets/img/posts/2026-08-13-festival.webp
 title: "KELTSKÁ NOC 2026 - 2. DEN"
 date: 2026-08-15 00-00-00 +0800
 categories: [Festivaly, Keltská noc]

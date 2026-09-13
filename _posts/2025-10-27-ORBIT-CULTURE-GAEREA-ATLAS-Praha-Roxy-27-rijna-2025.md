@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2025-10-27-concert.jpg
+  path: /assets/img/posts/2025-10-27-concert.webp
 title: "ORBIT CULTURE, GAEREA, ATLAS"
 date: 2025-10-27 00-00-00 +0800
 categories: [Koncerty, Praha / Roxy]

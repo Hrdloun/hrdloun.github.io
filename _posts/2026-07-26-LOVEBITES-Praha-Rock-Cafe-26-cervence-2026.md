@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2026-07-26-concert.png
+  path: /assets/img/posts/2026-07-26-concert.webp
 title: "LOVEBITES"
 date: 2026-07-26 00-00-00 +0800
 categories: [Koncerty, Praha / Rock Café]

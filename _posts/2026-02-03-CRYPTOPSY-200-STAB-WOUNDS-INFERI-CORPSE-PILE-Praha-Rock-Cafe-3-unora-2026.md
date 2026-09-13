@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2026-02-03-concert.jpg
+  path: /assets/img/posts/2026-02-03-concert.webp
 title: "CRYPTOPSY, 200STABWOUNDS, INFERI, CORPSE PILE"
 date: 2026-02-03 00-00-00 +0800
 categories: [Koncerty, Praha / Rock Café]

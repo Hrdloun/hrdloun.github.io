@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2026-04-12-concert.jpg
+  path: /assets/img/posts/2026-04-12-concert.webp
 title: "KREATOR, CARCASS, EXODUS, NAILS"
 date: 2026-04-12 00-00-00 +0800
 categories: [Koncerty, Praha / Forum Karlín]

@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2025-03-01-concert.jpg
+  path: /assets/img/posts/2025-03-01-concert.webp
 title: "DIRKSCHNEIDER, CROWNSHIFT, ALL FOR METAL"
 date: 2025-03-01 00-00-00 +0800
 categories: [Koncerty, Praha / SaSaZu]

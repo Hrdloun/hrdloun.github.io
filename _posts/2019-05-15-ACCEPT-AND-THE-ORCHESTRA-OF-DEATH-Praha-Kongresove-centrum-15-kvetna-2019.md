@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2019-05-15-concert.jpg
+  path: /assets/img/posts/2019-05-15-concert.webp
 title: "ACCEPT AND THE ORCHESTRA OF DEATH"
 date: 2019-05-15 00-00-00 +0800
 categories: [Koncerty, Praha / Kongresové centrum]

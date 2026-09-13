@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2026-07-07-concert.png
+  path: /assets/img/posts/2026-07-07-concert.webp
 title: "KRUSADIST, ATOMIC WARDEAD, APARATH"
 date: 2026-07-07 00-00-00 +0800
 categories: [Koncerty, Praha / Rock Café]

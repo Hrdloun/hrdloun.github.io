@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2025-05-10-concert.jpg
+  path: /assets/img/posts/2025-05-10-concert.webp
 title: "ČAD, REFORE, LAHAR, BOWEL FUCK"
 date: 2025-05-10 00-00-00 +0800
 categories: [Koncerty, Praha / Rock Café]

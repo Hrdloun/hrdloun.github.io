@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2020-01-26-concert.jpg
+  path: /assets/img/posts/2020-01-26-concert.webp
 title: "SABATON, APOCALYPTICA, AMARANTHE"
 date: 2020-01-26 00-00-00 +0800
 categories: [Koncerty, Praha / O2 arena]

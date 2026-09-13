@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2026-07-12-concert.jpg
+  path: /assets/img/posts/2026-07-12-concert.webp
 title: "OVERKILL, LAID TO WASTE, REFORE"
 date: 2026-07-12 00-00-00 +0800
 categories: [Koncerty, Praha / Modrá Vopice]

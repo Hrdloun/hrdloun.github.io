@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2026-02-08-concert.jpg
+  path: /assets/img/posts/2026-02-08-concert.webp
 title: "SLAUGHTER TO PREVAIL, DYING FETUS, SUICIDE SILENCE"
 date: 2026-02-08 00-00-00 +0800
 categories: [Koncerty, Praha / Forum Karlín]

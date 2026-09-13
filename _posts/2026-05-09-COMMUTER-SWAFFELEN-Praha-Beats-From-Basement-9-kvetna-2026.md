@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2026-05-09-concert.jpg
+  path: /assets/img/posts/2026-05-09-concert.webp
 title: "COMMUTER, SWAFFELEN"
 date: 2026-05-09 00-00-00 +0800
 categories: [Koncerty, Praha / Beats From Basement]

@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2024-03-23-concert.jpg
+  path: /assets/img/posts/2024-03-23-concert.webp
 title: "CATTLE DECAPITATION, SIGNS OF THE SWARM, 200STABWOUNDS, VOMIT FORTH"
 date: 2024-03-23 00-00-00 +0800
 categories: [Koncerty, Praha / Meet Factory]

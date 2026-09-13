@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2026-07-17-concert.png
+  path: /assets/img/posts/2026-07-17-concert.webp
 title: "EXORCIZPHOBIA, SECRET OF DARKNESS, SHAMPOON KILLER, SLEDGEDOWN"
 date: 2026-07-17 00-00-00 +0800
 categories: [Koncerty, Brandýs nad Labem / Saloon]

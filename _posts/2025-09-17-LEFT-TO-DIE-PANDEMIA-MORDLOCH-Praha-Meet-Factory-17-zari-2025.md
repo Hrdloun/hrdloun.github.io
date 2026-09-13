@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2025-09-17-concert.jpg
+  path: /assets/img/posts/2025-09-17-concert.webp
 title: "LEFT TO DIE, PANDEMIA, MORDLOCH"
 date: 2025-09-17 00-00-00 +0800
 categories: [Koncerty, Praha / Meet Factory]

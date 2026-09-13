@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2024-06-07-festival.jpg
+  path: /assets/img/posts/2024-06-07-festival.webp
 title: "VOTVÍRÁK 2024 - ARAKAIN, INÉ KAFE"
 date: 2024-06-07 00-00-00 +0800
 categories: [Festivaly, Votvírák]

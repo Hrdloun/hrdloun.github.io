@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2025-10-30-concert.png
+  path: /assets/img/posts/2025-10-30-concert.webp
 title: "ARAKAIN, TÖRR"
 date: 2025-10-30 00-00-00 +0800
 categories: [Koncerty, Praha / Barrák Music Club]

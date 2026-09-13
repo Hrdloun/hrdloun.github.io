@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2026-06-10-festival.jpg
+  path: /assets/img/posts/2026-06-10-festival.webp
 title: "ROCK FOR PEOPLE 2026 - 3. DEN"
 date: 2026-06-12 00-00-00 +0800
 categories: [Festivaly, Rock for People]

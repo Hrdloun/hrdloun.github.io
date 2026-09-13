@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2024-07-11-festival.jpg
+  path: /assets/img/posts/2024-07-11-festival.webp
 title: "MASTERS OF ROCK 2024 - 4. DEN"
 date: 2024-07-14 00-00-00 +0800
 categories: [Festivaly, Masters of Rock]

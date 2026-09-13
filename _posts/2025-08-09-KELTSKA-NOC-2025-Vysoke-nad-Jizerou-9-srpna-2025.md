@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2025-08-08-festival.png
+  path: /assets/img/posts/2025-08-08-festival.webp
 title: "KELTSKÁ NOC 2025 - 2. DEN"
 date: 2025-08-09 00-00-00 +0800
 categories: [Festivaly, Keltská noc]

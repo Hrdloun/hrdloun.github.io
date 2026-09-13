@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2025-06-11-festival.png
+  path: /assets/img/posts/2025-06-11-festival.webp
 title: "ROCK FOR PEOPLE 2025 - 4 DEN"
 date: 2025-06-14 00-00-00 +0800
 categories: [Festivaly, Rock for People]

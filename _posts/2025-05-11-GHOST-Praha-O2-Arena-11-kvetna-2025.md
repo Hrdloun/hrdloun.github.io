@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2025-05-11-concert.jpg
+  path: /assets/img/posts/2025-05-11-concert.webp
 title: "GHOST"
 date: 2025-05-11 00-00-00 +0800
 categories: [Koncerty, Praha / O2 arena]

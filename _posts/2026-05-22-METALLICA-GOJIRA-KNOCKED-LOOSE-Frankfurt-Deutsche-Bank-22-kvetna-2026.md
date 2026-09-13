@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2026-05-22-concert.jpg
+  path: /assets/img/posts/2026-05-22-concert.webp
 title: "METALLICA, GOJIRA, KNOCKED LOOSE"
 date: 2026-05-22 00-00-00 +0800
 categories: [Koncerty, Frankfurt / Deutsche Bank]

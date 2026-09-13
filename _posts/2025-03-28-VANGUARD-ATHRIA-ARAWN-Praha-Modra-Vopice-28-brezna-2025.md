@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2025-03-28-concert.jpg
+  path: /assets/img/posts/2025-03-28-concert.webp
 title: "VANGUARD, ATHRIA, ARAWN"
 date: 2025-03-28 00-00-00 +0800
 categories: [Koncerty, Praha / Modrá Vopice]

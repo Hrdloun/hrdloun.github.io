@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2025-10-18-concert.jpg
+  path: /assets/img/posts/2025-10-18-concert.webp
 title: "ARCH ENEMY, ELUVEITIE, AMORPHIS, GATECREEPER"
 date: 2025-10-18 00-00-00 +0800
 categories: [Koncerty, Praha / Sportovní hala Fortuna]
